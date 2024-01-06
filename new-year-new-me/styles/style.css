@@ -1,0 +1,15 @@
+/* Common Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.banner img {
+  position: relative;
+}
+
+.banner-content {
+  position: absolute;
+  margin-top: 200px;
+  margin-right: 230px;
+}
